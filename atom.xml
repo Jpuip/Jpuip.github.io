@@ -6,7 +6,7 @@
   <link href="https://jpuip.github.io/atom.xml" rel="self"/>
   
   <link href="https://jpuip.github.io/"/>
-  <updated>2024-05-21T11:00:49.642Z</updated>
+  <updated>2024-06-11T07:08:54.425Z</updated>
   <id>https://jpuip.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jpuip.github.io/2024/052163796.html"/>
     <id>https://jpuip.github.io/2024/052163796.html</id>
     <published>2024-05-21T12:23:06.000Z</published>
-    <updated>2024-05-21T11:00:49.642Z</updated>
+    <updated>2024-06-11T07:08:54.425Z</updated>
     
     
       
@@ -36,6 +36,8 @@
     
     <category term="视频" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/"/>
     
+    <category term="其他" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/%E5%85%B6%E4%BB%96/"/>
+    
     
     <category term="HarmonyOs" scheme="https://jpuip.github.io/tags/HarmonyOs/"/>
     
@@ -48,7 +50,7 @@
     <link href="https://jpuip.github.io/2024/052163795.html"/>
     <id>https://jpuip.github.io/2024/052163795.html</id>
     <published>2024-05-21T12:23:05.000Z</published>
-    <updated>2024-05-21T11:42:41.246Z</updated>
+    <updated>2024-06-11T07:09:11.885Z</updated>
     
     
       
@@ -63,89 +65,10 @@
     
     <category term="视频" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/"/>
     
+    <category term="其他" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/%E5%85%B6%E4%BB%96/"/>
+    
     
     <category term="3D投影设备" scheme="https://jpuip.github.io/tags/3D%E6%8A%95%E5%BD%B1%E8%AE%BE%E5%A4%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>4亿！机器人全资子公司引入战投，国家队出手</title>
-    <link href="https://jpuip.github.io/2024/042363789.html"/>
-    <id>https://jpuip.github.io/2024/042363789.html</id>
-    <published>2024-04-23T12:23:06.000Z</published>
-    <updated>2024-06-04T12:45:55.419Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;4亿！机器人全资子公司引入战投，国家队出手&quot;&gt;&lt;a href=&quot;#4亿！机器人全资子公司引入战投，国家队出手&quot; class=&quot;headerlink&quot; title=&quot; 4亿！机器人全资子公司引入战投，国家队出手&quot;&gt;&lt;/a&gt;&lt;center&gt;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    <category term="机器人" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
-    
-    
-    <category term="国家队，机器人，半导体" scheme="https://jpuip.github.io/tags/%E5%9B%BD%E5%AE%B6%E9%98%9F%EF%BC%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E5%8D%8A%E5%AF%BC%E4%BD%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ABB扩大模块化工业机器人产品线，打造高灵活定制化生产</title>
-    <link href="https://jpuip.github.io/2024/042363788.html"/>
-    <id>https://jpuip.github.io/2024/042363788.html</id>
-    <published>2024-04-23T12:23:06.000Z</published>
-    <updated>2024-05-21T01:22:20.374Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;ABB扩大模块化工业机器人产品线，打造高灵活定制化生产&quot;&gt;&lt;a href=&quot;#ABB扩大模块化工业机器人产品线，打造高灵活定制化生产&quot; class=&quot;headerlink&quot; title=&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    <category term="机器人" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
-    
-    
-    <category term="ABB，工业机器人，定制化生产" scheme="https://jpuip.github.io/tags/ABB%EF%BC%8C%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E5%AE%9A%E5%88%B6%E5%8C%96%E7%94%9F%E4%BA%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>OCCT的直接替代品！华为牵头贡献开源代码的OGG 1.0正式发布</title>
-    <link href="https://jpuip.github.io/2024/042363787.html"/>
-    <id>https://jpuip.github.io/2024/042363787.html</id>
-    <published>2024-04-23T12:23:06.000Z</published>
-    <updated>2024-05-21T01:22:26.545Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;OCCT的直接替代品！华为牵头贡献开源代码的OGG-1-0正式发布&quot;&gt;&lt;a href=&quot;#OCCT的直接替代品！华为牵头贡献开源代码的OGG-1-0正式发布&quot; class=&quot;headerlink&quot; title=&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    <category term="华为" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E5%8D%8E%E4%B8%BA/"/>
-    
-    
-    <category term="OCCT，华为，OGG" scheme="https://jpuip.github.io/tags/OCCT%EF%BC%8C%E5%8D%8E%E4%B8%BA%EF%BC%8COGG/"/>
     
   </entry>
   
@@ -154,7 +77,7 @@
     <link href="https://jpuip.github.io/2024/042363793.html"/>
     <id>https://jpuip.github.io/2024/042363793.html</id>
     <published>2024-04-23T12:23:06.000Z</published>
-    <updated>2024-05-21T11:42:43.711Z</updated>
+    <updated>2024-06-11T07:09:00.904Z</updated>
     
     
       
@@ -169,24 +92,29 @@
     
     <category term="视频" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/"/>
     
+    <category term="其他" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/%E5%85%B6%E4%BB%96/"/>
+    
     
     <category term="京东方" scheme="https://jpuip.github.io/tags/%E4%BA%AC%E4%B8%9C%E6%96%B9/"/>
     
   </entry>
   
   <entry>
-    <title>6家磁材企业2023年报速递！2024，磁材企业都关注什么？</title>
-    <link href="https://jpuip.github.io/2024/042363794.html"/>
-    <id>https://jpuip.github.io/2024/042363794.html</id>
+    <title>人机交互是什么？</title>
+    <link href="https://jpuip.github.io/2024/042363787.html"/>
+    <id>https://jpuip.github.io/2024/042363787.html</id>
     <published>2024-04-23T12:23:06.000Z</published>
-    <updated>2024-05-21T01:22:03.844Z</updated>
+    <updated>2024-06-11T07:07:05.893Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;6家磁材企业2023年报速递！2024，磁材企业都关注什么？&quot;&gt;&lt;a href=&quot;#6家磁材企业2023年报速递！2024，磁材企业都关注什么？&quot; class=&quot;headerlink&quot; title=&quot;</summary>
+    <summary type="html">&lt;div class=&quot;mod-top&quot;&gt;&lt;center&gt;&lt;h1 class=&quot;mod-top__title&quot;&gt;人机交互&lt;/h1&gt;&lt;/center&gt;&lt;div class=&quot;mod-top__main&quot;&gt;
+
+
+&lt;div track-click=&quot;&quot;</summary>
         
       
     
@@ -194,109 +122,28 @@
     
     <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
     
-    <category term="企业" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E4%BC%81%E4%B8%9A/"/>
+    <category term="人机交互" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92/"/>
     
     
-    <category term="磁材，企业" scheme="https://jpuip.github.io/tags/%E7%A3%81%E6%9D%90%EF%BC%8C%E4%BC%81%E4%B8%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>学习采收及采后处理技巧 轻松延长软籽石榴保鲜期</title>
-    <link href="https://jpuip.github.io/2024/042363786.html"/>
-    <id>https://jpuip.github.io/2024/042363786.html</id>
-    <published>2024-04-23T12:23:06.000Z</published>
-    <updated>2024-05-21T01:22:44.757Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;学习采收及采后处理技巧-轻松延长软籽石榴保鲜期&quot;&gt;&lt;a href=&quot;#学习采收及采后处理技巧-轻松延长软籽石榴保鲜期&quot; class=&quot;headerlink&quot; title=&quot; 学习采收及采后处理技巧 轻松延长软籽石榴保鲜期&quot;&gt;&lt;/a&gt;&lt;center&gt;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    <category term="石榴采摘" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E7%9F%B3%E6%A6%B4%E9%87%87%E6%91%98/"/>
-    
-    
-    <category term="采收" scheme="https://jpuip.github.io/tags/%E9%87%87%E6%94%B6/"/>
-    
-    <category term="石榴" scheme="https://jpuip.github.io/tags/%E7%9F%B3%E6%A6%B4/"/>
+    <category term="人机交互" scheme="https://jpuip.github.io/tags/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92/"/>
     
   </entry>
   
   <entry>
-    <title>纯度99.9996％！中国制氢提纯、除杂新高度</title>
-    <link href="https://jpuip.github.io/2024/042363791.html"/>
-    <id>https://jpuip.github.io/2024/042363791.html</id>
-    <published>2024-04-23T12:23:06.000Z</published>
-    <updated>2024-05-21T01:22:57.453Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;纯度99-9996％！中国制氢提纯、除杂新高度&quot;&gt;&lt;a href=&quot;#纯度99-9996％！中国制氢提纯、除杂新高度&quot; class=&quot;headerlink&quot; title=&quot; 纯度99.9996％！中国制氢提纯、除杂新高度&quot;&gt;&lt;/a&gt;&lt;center&gt;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    <category term="氢气提纯" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E6%B0%A2%E6%B0%94%E6%8F%90%E7%BA%AF/"/>
-    
-    
-    <category term="中国，制氢" scheme="https://jpuip.github.io/tags/%E4%B8%AD%E5%9B%BD%EF%BC%8C%E5%88%B6%E6%B0%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人形机器人的尽头是“打工人”？行业掀起了变革风暴</title>
-    <link href="https://jpuip.github.io/2024/042363790.html"/>
-    <id>https://jpuip.github.io/2024/042363790.html</id>
-    <published>2024-04-23T12:23:06.000Z</published>
-    <updated>2024-05-21T05:40:09.531Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;人形机器人的尽头是“打工人”？行业掀起了变革风暴&quot;&gt;&lt;a href=&quot;#人形机器人的尽头是“打工人”？行业掀起了变革风暴&quot; class=&quot;headerlink&quot; title=&quot; 人形机器人的尽头是“打工人”？行业掀起了变革风暴&quot;&gt;&lt;/a&gt;&lt;center&gt;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    <category term="机器人" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
-    
-    
-    <category term="人形机器人，打工人" scheme="https://jpuip.github.io/tags/%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E6%89%93%E5%B7%A5%E4%BA%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>杭州两城区发放新一轮购车补贴，补贴总额共计7000万元</title>
+    <title>大数据为什么大？</title>
     <link href="https://jpuip.github.io/2024/042363792.html"/>
     <id>https://jpuip.github.io/2024/042363792.html</id>
     <published>2024-04-23T12:23:06.000Z</published>
-    <updated>2024-05-21T01:22:52.461Z</updated>
+    <updated>2024-06-11T07:07:48.236Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;杭州两城区发放新一轮购车补贴，补贴总额共计7000万元&quot;&gt;&lt;a href=&quot;#杭州两城区发放新一轮购车补贴，补贴总额共计7000万元&quot; class=&quot;headerlink&quot; title=&quot;</summary>
+    <summary type="html">&lt;center&gt;&lt;h1 class=&quot;title-text&quot;&gt;大数据为什么大？&lt;/h1&gt;&lt;/center&gt;
+
+&lt;div class=&quot;mod-content&quot;&gt;&lt;div class=&quot;mod-content__markdown&quot;&gt;&lt;div&gt;&lt;div</summary>
         
       
     
@@ -304,10 +151,323 @@
     
     <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
     
-    <category term="购车" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E8%B4%AD%E8%BD%A6/"/>
+    <category term="大数据" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
     
-    <category term="杭州，购车补贴" scheme="https://jpuip.github.io/tags/%E6%9D%AD%E5%B7%9E%EF%BC%8C%E8%B4%AD%E8%BD%A6%E8%A1%A5%E8%B4%B4/"/>
+    <category term="大数据" scheme="https://jpuip.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>什么是物联网（IoT）？</title>
+    <link href="https://jpuip.github.io/2024/042363790.html"/>
+    <id>https://jpuip.github.io/2024/042363790.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T07:08:00.661Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 class=&quot;Content--title--BqUC9Uw&quot; data-spm-anchor-id=&quot;a2c4g.28987253.0.i3.5c066134zv5eu4&quot;&gt;&lt;center&gt;什么是物联网（IoT）？&lt;/center&gt;&lt;/h1&gt;
+&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="物联网" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E7%89%A9%E8%81%94%E7%BD%91/"/>
+    
+    
+    <category term="物联网" scheme="https://jpuip.github.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>什么是大数据？</title>
+    <link href="https://jpuip.github.io/2024/042363789.html"/>
+    <id>https://jpuip.github.io/2024/042363789.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T07:08:03.830Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;section class=&quot;rc25 rc25v0 cpad&quot; data-trackas=&quot;rc25&quot;&gt;
+&lt;div class=&quot;rc25w1 cwidth&quot;&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="大数据" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+    <category term="大数据" scheme="https://jpuip.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《大数据时代》（第三集 决策之智）</title>
+    <link href="https://jpuip.github.io/2024/042363799.html"/>
+    <id>https://jpuip.github.io/2024/042363799.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T07:07:05.092Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;大数据时代（第三集-决策之智）&quot;&gt;&lt;a href=&quot;#大数据时代（第三集-决策之智）&quot; class=&quot;headerlink&quot; title=&quot; 大数据时代（第三集 决策之智）&quot;&gt;&lt;/a&gt;&lt;center&gt; 大数据时代（第三集 决策之智）&lt;/h2&gt;&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="大数据时代" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3/"/>
+    
+    
+    <category term="大数据" scheme="https://jpuip.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据发展现状与未来趋势</title>
+    <link href="https://jpuip.github.io/2024/042363794.html"/>
+    <id>https://jpuip.github.io/2024/042363794.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T05:53:28.722Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;tit&quot;&gt;
+&lt;h1&gt;&lt;center&gt;大数据：发展现状与未来趋势&lt;/center&gt;&lt;/h1&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Zoom&quot;&gt;
+&lt;p style=&quot;TEXT-INDENT:</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="大数据" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+    <category term="大数据" scheme="https://jpuip.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《大数据时代》（第四集 商业之变）</title>
+    <link href="https://jpuip.github.io/2024/042341800.html"/>
+    <id>https://jpuip.github.io/2024/042341800.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T07:10:26.833Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;大数据时代（第四集-商业之变）&quot;&gt;&lt;a href=&quot;#大数据时代（第四集-商业之变）&quot; class=&quot;headerlink&quot; title=&quot; 大数据时代（第四集 商业之变）&quot;&gt;&lt;/a&gt;&lt;center&gt; 大数据时代（第四集 商业之变）&lt;/h2&gt;&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="大数据时代" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3/"/>
+    
+    
+    <category term="大数据" scheme="https://jpuip.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《大数据时代》（第五集 未来已来）</title>
+    <link href="https://jpuip.github.io/2024/042363801.html"/>
+    <id>https://jpuip.github.io/2024/042363801.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T07:08:05.983Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;大数据时代（第五集-未来已来）&quot;&gt;&lt;a href=&quot;#大数据时代（第五集-未来已来）&quot; class=&quot;headerlink&quot; title=&quot; 大数据时代（第五集 未来已来）&quot;&gt;&lt;/a&gt;&lt;center&gt; 大数据时代（第五集 未来已来）&lt;/h2&gt;&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="大数据时代" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3/"/>
+    
+    
+    <category term="大数据" scheme="https://jpuip.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《大数据时代》（第一集 数据时代）</title>
+    <link href="https://jpuip.github.io/2024/042363797.html"/>
+    <id>https://jpuip.github.io/2024/042363797.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T07:09:48.986Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;大数据时代（第一集-数据时代）&quot;&gt;&lt;a href=&quot;#大数据时代（第一集-数据时代）&quot; class=&quot;headerlink&quot; title=&quot; 大数据时代（第一集 数据时代）&quot;&gt;&lt;/a&gt;&lt;center&gt; 大数据时代（第一集 数据时代）&lt;/h2&gt;&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="大数据时代" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3/"/>
+    
+    
+    <category term="大数据" scheme="https://jpuip.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《大数据时代》（第二集 转型之路）</title>
+    <link href="https://jpuip.github.io/2024/042363798.html"/>
+    <id>https://jpuip.github.io/2024/042363798.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T07:07:02.184Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;大数据时代（第二集-转型之路）&quot;&gt;&lt;a href=&quot;#大数据时代（第二集-转型之路）&quot; class=&quot;headerlink&quot; title=&quot; 大数据时代（第二集 转型之路）&quot;&gt;&lt;/a&gt;&lt;center&gt; 大数据时代（第二集 转型之路）&lt;/h2&gt;&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="大数据时代" scheme="https://jpuip.github.io/categories/%E8%A7%86%E9%A2%91/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3/"/>
+    
+    
+    <category term="大数据" scheme="https://jpuip.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浅谈人机交互的前世今生，自然交互必成未来趋势</title>
+    <link href="https://jpuip.github.io/2024/042363788.html"/>
+    <id>https://jpuip.github.io/2024/042363788.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T06:38:33.881Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;h1 class=&quot;title-text&quot;&gt;浅谈人机交互的前世今生，自然交互必成未来趋势&lt;/h1&gt;&lt;/center&gt;
+
+&lt;div class=&quot;mod-content&quot;&gt;&lt;div class=&quot;mod-content__markdown&quot;&gt;&lt;div&gt;&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="人机交互" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92/"/>
+    
+    
+    <category term="人机交互" scheme="https://jpuip.github.io/tags/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>物联网的十大应用领域（上）</title>
+    <link href="https://jpuip.github.io/2024/042363786.html"/>
+    <id>https://jpuip.github.io/2024/042363786.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T02:01:30.121Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;h1&gt;物联网时代：物联网的十大应用领域（上）&lt;/h1&gt;&lt;/center&gt;
+&lt;div class=&quot;detail-box&quot;&gt;
+         </summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="物联网" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E7%89%A9%E8%81%94%E7%BD%91/"/>
+    
+    
+    <category term="物联网" scheme="https://jpuip.github.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>物联网的十大应用领域（下）</title>
+    <link href="https://jpuip.github.io/2024/042363791.html"/>
+    <id>https://jpuip.github.io/2024/042363791.html</id>
+    <published>2024-04-23T12:23:06.000Z</published>
+    <updated>2024-06-11T07:07:57.814Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;h1&gt;物联网时代：物联网的十大应用领域（下）&lt;/h1&gt;&lt;/center&gt;
+&lt;div class=&quot;detail-box&quot;&gt;
+&lt;p&gt;　　目录：&lt;/p&gt;&lt;p&gt;　&lt;strong&gt;　&lt;/strong&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="物联网" scheme="https://jpuip.github.io/categories/%E6%96%87%E7%AB%A0/%E7%89%A9%E8%81%94%E7%BD%91/"/>
+    
+    
+    <category term="物联网" scheme="https://jpuip.github.io/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
